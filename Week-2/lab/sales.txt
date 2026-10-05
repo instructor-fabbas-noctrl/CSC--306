@@ -1,0 +1,5 @@
+North 1250.50
+South 980.00
+East 1432.75
+West 760.25
+Central 1105.00
