@@ -47,8 +47,8 @@ Every lab is a **single self-contained `.cpp` file** (no shared headers), so eac
 
 ```bash
 # first time
-git clone <course-repo-url>
-cd <course-repo>/week08-polymorphism/lab
+git clone (https://github.com/instructor-fabbas-noctrl/CSC--306/
+cd Week-8/lab
 
 # every later class
 git pull
